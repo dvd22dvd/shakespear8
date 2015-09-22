@@ -2,7 +2,7 @@ Romeo and Juliet
 
 In fair veron where we lay
 
-Some due: I bit my thumb
+Some due: I bit my thumb *bites thumb*
 
 Juliet: Ay, me!
 
@@ -11,4 +11,4 @@ Romeo: What light ...
 Juliet: Where for art thou, Romeo?
 
 
-THE END
+THE END!
